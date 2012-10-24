@@ -160,6 +160,22 @@ blockquote .author {
 #arrow1{-webkit-transform: scale(1,1); position: absolute; left: -170px; top: -200px;  letter-spacing: 0px; font-size: 55px;  }
 #arrow2{ position: absolute; top: 0px; left: 20px;  }
 
+#social-head{position: absolute; top: 0px; letter-spacing: 85px; font-size: 120px; position: relative; left: 130px;  line-height: 160px}
+#system-head{position: absolute; top: -50px; letter-spacing: 10px; font-size: 180px; position: relative; left: 100px; font-weight: bold; line-height: 100px}
+
+#polling-society #polling-soc-head{ position: absolute; top: -230px; left: -140px; font-size: 80px;}
+#polling-society #text1{ position: absolute; letter-spacing: 20px; left: -140px; top: -70px; font-size: 60px; font-weight: 100;}
+#polling-society #text2{ position: absolute; letter-spacing: 0px; left: -140px; top: 30px; font-size: 60px; font-weight: 300 !important;}
+#polling-society #text3{ position: absolute; letter-spacing: 100px; left: -140px; top: 120px; font-size: 60px; font-weight: 600;}
+#polling-society #text4{ position: absolute; letter-spacing: 0px; left: -140px; top: 220px; font-size: 53px; font-weight: 100;}
+
+#polling-media #polling-med-head{ -webkit-transform: scale(1,2); position: absolute; top: -260px; left: 60px; font-size: 50px; font-weight: bold;}
+#polling-media #text1{ position: absolute; letter-spacing: 15px; left: 60px; top: -30px; font-size: 35px; font-weight: 100;}
+#polling-media #text2{ position: absolute; letter-spacing: 6px; left: 60px; top: 60px; font-size: 35px; font-weight: 300 !important;}
+#polling-media #text3{ position: absolute; letter-spacing: 0px; left: 60px; top: 140px; font-size: 35px; font-weight: 600;}
+#polling-media #text4{ position: absolute; letter-spacing: 0px; left: 60px; top: 220px; font-size: 27px; font-weight: 100;}
+
+
 #respond-text1 { font-size: 84px; }
 #respond-text2 { font-size: 202px; }
 #respond-text3 { font-size: 77px; }
