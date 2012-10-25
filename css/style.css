@@ -1,5 +1,5 @@
 html { overflow: hidden; }
-body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; }
+body { font-family: 'Open Sans', sans-serif; line-height: .8; font-size: 45px; color: #333;}
 
 .background {
 	position: fixed;
@@ -131,6 +131,9 @@ blockquote .author {
 #mis-aim{ letter-spacing: 80px; font-size: 93px; position: relative; left: 20px; line-height: 70px; }
 #mis-sol{ letter-spacing: 10px; font-size: 50px; position: relative; left: 20px; line-height: 70px; }
 
+#challange-head{ -webkit-transform: scale(1,1); letter-spacing: 25px; font-size: 100px; left: 10px; font-weight: bold; }
+#challange-face{ -webkit-transform: scale(1,1); letter-spacing: 56px; font-size: 40px; left: 10px;  }
+
 #tech-head{ -webkit-transform: scale(1,2); letter-spacing: 30px; font-size: 80px; left: 10px; font-weight: bold; line-height: 0px; }
 #tech-use{ letter-spacing: 51px; font-size: 60px; position: relative; left: 20px; line-height: 0px; }
 
@@ -188,6 +191,13 @@ blockquote .author {
 
 #nonsocial #text1{ font-size: 120px; text-align: left; line-height: 120px;}
 #nonsocial #text2{ font-size: 220px; text-align: left; line-height: 200px;}
+
+#feedback #text1{ font-size: 100px; text-align: left; line-height: 120px;}
+#feedback #text2{ font-size: 180px; text-align: left; line-height: 200px;}
+
+#banana #text1{ letter-spacing: 20px; font-size: 100px; text-align: left; line-height: 120px;}
+#banana #text2{ letter-spacing: 10px;  font-size: 190px; text-align: left; line-height: 200px;}
+
 
 
 #respond-text1 { font-size: 84px; }
