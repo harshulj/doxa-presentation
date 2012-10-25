@@ -175,6 +175,12 @@ blockquote .author {
 #polling-media #text3{ position: absolute; letter-spacing: 0px; left: 60px; top: 140px; font-size: 35px; font-weight: 600;}
 #polling-media #text4{ position: absolute; letter-spacing: 0px; left: 60px; top: 220px; font-size: 27px; font-weight: 100;}
 
+#polling-online #text1{ position: absolute; letter-spacing: 19px; left: 60px; top: -230px; font-size: 60px; font-weight: 100;}
+#polling-online #text2{ position: absolute; letter-spacing: 40px; left: 60px; top: -80px; font-size: 60px; font-weight: 100;}
+#polling-online #text3{ position: absolute; letter-spacing: 37px; left: 60px; top: 50px; font-size: 60px; font-weight: 100;}
+#polling-online #text4{ position: absolute; letter-spacing: 60px; left: 60px; top: 180px; font-size: 60px; font-weight: 100;}
+
+
 
 #respond-text1 { font-size: 84px; }
 #respond-text2 { font-size: 202px; }
