@@ -125,7 +125,7 @@ blockquote .author {
 
 #problems-head{ -webkit-transform: scale(1,3); letter-spacing: 25px; font-size: 135px; left: 10px; font-weight: bold; line-height: 100px}
 #prob-exist{ letter-spacing: 1px; font-size: 35px; position: relative; left: 10px; line-height: 70px}
-#prob-new{ letter-spacing: 2px; font-size: 51px; position: relative; left: 10px; line-height: 70px; font-weight: 800;}
+#prob-new{ letter-spacing: 2px; font-size: 51px; position: relative; left: 10px; line-height: 70px; }
 
 #mission-head{ -webkit-transform: scale(1,2); letter-spacing: 30px; font-size: 180px; left: 10px; font-weight: bold; line-height: 100px; }
 #mis-aim{ letter-spacing: 80px; font-size: 93px; position: relative; left: 20px; line-height: 70px; }
